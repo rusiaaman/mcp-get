@@ -403,5 +403,14 @@
     "homepage": "https://github.com/Flux159/mcp-server-kubernetes",
     "license": "MIT",
     "runtime": "node"
+  },
+  {
+    "name": "wcgw",
+    "description": "Autonomous shell and coding agent",
+    "vendor": "rusiaaman (https://github.com/rusiaaman)",
+    "sourceUrl": "https://github.com/rusiaaman/wcgw",
+    "homepage": "https://github.com/rusiaaman/wcgw",
+    "license": "MIT",
+    "runtime": "python"
   }
 ]
